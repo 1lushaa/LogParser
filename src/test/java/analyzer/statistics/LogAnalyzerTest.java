@@ -1,4 +1,4 @@
-package backend.academy.analyzer.statistics;
+package analyzer.statistics;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;

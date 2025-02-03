@@ -1,7 +1,7 @@
-package backend.academy.analyzer.render;
+package analyzer.render;
 
-import backend.academy.analyzer.statistics.LogAnalyzer;
-import backend.academy.analyzer.statistics.LogStatistics;
+import analyzer.statistics.LogAnalyzer;
+import analyzer.statistics.LogStatistics;
 import java.net.MalformedURLException;
 import java.net.URI;
 import java.time.OffsetDateTime;

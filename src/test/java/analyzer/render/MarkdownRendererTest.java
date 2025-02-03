@@ -1,4 +1,4 @@
-package backend.academy.analyzer.render;
+package analyzer.render;
 
 import lombok.AccessLevel;
 import lombok.Getter;

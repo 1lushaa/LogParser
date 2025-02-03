@@ -1,6 +1,6 @@
-package backend.academy.analyzer.parser;
+package analyzer.parser;
 
-import backend.academy.analyzer.error.InvalidLogFormatException;
+import analyzer.error.InvalidLogFormatException;
 import java.security.SecureRandom;
 import java.time.OffsetDateTime;
 import java.time.format.DateTimeFormatter;

@@ -1,4 +1,4 @@
-package backend.academy.analyzer.render;
+package analyzer.render;
 
 import java.util.stream.Stream;
 import org.junit.jupiter.api.DisplayName;
